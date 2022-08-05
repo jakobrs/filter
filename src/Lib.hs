@@ -3,7 +3,7 @@
 module Lib
   ( run,
     transform,
-    Preferences(..),
+    Preferences (..),
   )
 where
 
